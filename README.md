@@ -407,6 +407,3 @@ Updates to concepts
      * MEDIAN avg_time_between_updates_by_concept in days: 47.44315781582176
      * QUANTILE 5% avg_time_between_updates_by_concept in days: 0.010558191488425926
 ```
-
-
-The used code can be found in this repository: https://sidonia.dagstuhl.de:9000/dblp/unknowndata/-/tree/main/investigations/zenodo-api
