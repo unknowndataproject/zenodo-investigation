@@ -1,0 +1,379 @@
+{
+    "conceptdoi": "10.5281/zenodo.1213050",
+    "conceptrecid": "1213050",
+    "created": "2018-04-09T12:34:13.151421+00:00",
+    "doi": "10.5281/zenodo.1213051",
+    "files": [
+        {
+            "bucket": "77a98224-ab7e-40ef-9e31-8d6cbd50e5de",
+            "checksum": "md5:3b7d0af48ef858b9e0ed16d99bb973b7",
+            "key": "hdblp-2018-03-26.xml.gz",
+            "links": {
+                "self": "https://zenodo.org/api/files/77a98224-ab7e-40ef-9e31-8d6cbd50e5de/hdblp-2018-03-26.xml.gz"
+            },
+            "size": 559919092,
+            "type": "gz"
+        },
+        {
+            "bucket": "77a98224-ab7e-40ef-9e31-8d6cbd50e5de",
+            "checksum": "md5:e5833579b0d8aafe9997e875b2727057",
+            "key": "hdblp.pdf",
+            "links": {
+                "self": "https://zenodo.org/api/files/77a98224-ab7e-40ef-9e31-8d6cbd50e5de/hdblp.pdf"
+            },
+            "size": 163529,
+            "type": "pdf"
+        },
+        {
+            "bucket": "77a98224-ab7e-40ef-9e31-8d6cbd50e5de",
+            "checksum": "md5:b94036b94345209da7258dc6a7b8723a",
+            "key": "LICENCE.txt",
+            "links": {
+                "self": "https://zenodo.org/api/files/77a98224-ab7e-40ef-9e31-8d6cbd50e5de/LICENCE.txt"
+            },
+            "size": 20437,
+            "type": "txt"
+        }
+    ],
+    "id": 1213051,
+    "links": {
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.1213051.svg",
+        "bucket": "https://zenodo.org/api/files/77a98224-ab7e-40ef-9e31-8d6cbd50e5de",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.1213050.svg",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.1213050",
+        "doi": "https://doi.org/10.5281/zenodo.1213051",
+        "html": "https://zenodo.org/record/1213051",
+        "latest": "https://zenodo.org/api/records/3051910",
+        "latest_html": "https://zenodo.org/record/3051910",
+        "self": "https://zenodo.org/api/records/1213051"
+    },
+    "metadata": {
+        "access_right": "open",
+        "access_right_category": "success",
+        "creators": [
+            {
+                "affiliation": "LZI Schloss Dagstuhl, Wadern, Germany",
+                "name": "Hoffmann, Oliver",
+                "orcid": "0000-0002-3808-9042"
+            },
+            {
+                "affiliation": "LZI Schloss Dagstuhl, Wadern, Germany",
+                "name": "Reitz, Florian",
+                "orcid": "0000-0001-6114-3388"
+            }
+        ],
+        "description": "<p>This data set contains historical data of the dblp collection (https://dblp.org). I.e., for each metadata record, the collection contains all known revisions that existed in dblp.&nbsp;</p>\n\n<p>With hdblp, the state of dblp can be restored for each day between June 2 1999 and March 26 2018. hdblp can be used to study the development of the dblp collection.</p>",
+        "doi": "10.5281/zenodo.1213051",
+        "keywords": [
+            "dblp",
+            "historical metadata"
+        ],
+        "license": {
+            "id": "ODC-By-1.0"
+        },
+        "notes": "dblp is a joint project of the University of Trier, Germany and the Schloss Dagstuhl \u2013 Leibniz Center for Informatics, Wadern, Germany. Former and current members of the team are listed on http://dblp.org/db/about/team.html .",
+        "publication_date": "2018-04-09",
+        "related_identifiers": [
+            {
+                "identifier": "10.5281/zenodo.1213050",
+                "relation": "isVersionOf",
+                "scheme": "doi"
+            }
+        ],
+        "relations": {
+            "version": [
+                {
+                    "count": 3,
+                    "index": 0,
+                    "is_last": false,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "3051910"
+                    },
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "1213050"
+                    }
+                }
+            ]
+        },
+        "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+        },
+        "title": "hdblp: historical data of the dblp collection"
+    },
+    "owners": [
+        32943
+    ],
+    "revision": 11,
+    "stats": {
+        "downloads": 1259.0,
+        "unique_downloads": 825.0,
+        "unique_views": 8662.0,
+        "version_downloads": 3166.0,
+        "version_unique_downloads": 1014.0,
+        "version_unique_views": 9040.0,
+        "version_views": 9879.0,
+        "version_volume": 1292126531714.0,
+        "views": 9329.0,
+        "volume": 226897012678.0
+    },
+    "updated": "2020-01-24T19:26:14.739935+00:00"
+}
+{
+    "conceptdoi": "10.5281/zenodo.1213050",
+    "conceptrecid": "1213050",
+    "created": "2019-05-20T09:55:44.798810+00:00",
+    "doi": "10.5281/zenodo.3051910",
+    "files": [
+        {
+            "bucket": "f5082013-5696-455f-8944-754b47c76faf",
+            "checksum": "md5:40f5c160b7b790bcdeec0219b28aef7e",
+            "key": "dblp-2018-12-17.dtd",
+            "links": {
+                "self": "https://zenodo.org/api/files/f5082013-5696-455f-8944-754b47c76faf/dblp-2018-12-17.dtd"
+            },
+            "size": 12984,
+            "type": "dtd"
+        },
+        {
+            "bucket": "f5082013-5696-455f-8944-754b47c76faf",
+            "checksum": "md5:d5e52bc23136acfe4b89fe8aaaa881d1",
+            "key": "hdblp-2018-12-17.xml.gz",
+            "links": {
+                "self": "https://zenodo.org/api/files/f5082013-5696-455f-8944-754b47c76faf/hdblp-2018-12-17.xml.gz"
+            },
+            "size": 630294866,
+            "type": "gz"
+        },
+        {
+            "bucket": "f5082013-5696-455f-8944-754b47c76faf",
+            "checksum": "md5:0b4b6b992a6eed01d88c2ab9184091cf",
+            "key": "hdblp.pdf",
+            "links": {
+                "self": "https://zenodo.org/api/files/f5082013-5696-455f-8944-754b47c76faf/hdblp.pdf"
+            },
+            "size": 172722,
+            "type": "pdf"
+        },
+        {
+            "bucket": "f5082013-5696-455f-8944-754b47c76faf",
+            "checksum": "md5:b94036b94345209da7258dc6a7b8723a",
+            "key": "LICENCE.txt",
+            "links": {
+                "self": "https://zenodo.org/api/files/f5082013-5696-455f-8944-754b47c76faf/LICENCE.txt"
+            },
+            "size": 20437,
+            "type": "txt"
+        }
+    ],
+    "id": 3051910,
+    "links": {
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.3051910.svg",
+        "bucket": "https://zenodo.org/api/files/f5082013-5696-455f-8944-754b47c76faf",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.1213050.svg",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.1213050",
+        "doi": "https://doi.org/10.5281/zenodo.3051910",
+        "html": "https://zenodo.org/record/3051910",
+        "latest": "https://zenodo.org/api/records/3051910",
+        "latest_html": "https://zenodo.org/record/3051910",
+        "self": "https://zenodo.org/api/records/3051910"
+    },
+    "metadata": {
+        "access_right": "open",
+        "access_right_category": "success",
+        "creators": [
+            {
+                "affiliation": "LZI Schloss Dagstuhl, Wadern, Germany",
+                "name": "Hoffmann, Oliver",
+                "orcid": "0000-0002-3808-9042"
+            },
+            {
+                "affiliation": "LZI Schloss Dagstuhl, Wadern, Germany",
+                "name": "Reitz, Florian",
+                "orcid": "0000-0001-6114-3388"
+            }
+        ],
+        "description": "<p>This data set contains historical data of the dblp collection (https://dblp.org). I.e., for each metadata record, the collection contains all known revisions that existed in dblp.&nbsp;</p>\n\n<p>With hdblp, the state of dblp can be restored for each day between June 2 1999 and December 17 2018. hdblp can be used to study the development of the dblp collection.</p>\n\n<p>Correction of version 2 which omitted the data set description.&nbsp;</p>",
+        "doi": "10.5281/zenodo.3051910",
+        "keywords": [
+            "dblp",
+            "historical metadata"
+        ],
+        "license": {
+            "id": "ODC-By-1.0"
+        },
+        "notes": "dblp is a joint project of the University of Trier, Germany and the Schloss Dagstuhl \u2013 Leibniz Center for Informatics, Wadern, Germany. Former and current members of the team are listed on http://dblp.org/db/about/team.html .",
+        "publication_date": "2019-05-20",
+        "related_identifiers": [
+            {
+                "identifier": "10.5281/zenodo.1213050",
+                "relation": "isVersionOf",
+                "scheme": "doi"
+            }
+        ],
+        "relations": {
+            "version": [
+                {
+                    "count": 3,
+                    "index": 2,
+                    "is_last": true,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "3051910"
+                    },
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "1213050"
+                    }
+                }
+            ]
+        },
+        "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+        },
+        "title": "hdblp: historical data of the dblp collection"
+    },
+    "owners": [
+        32943
+    ],
+    "revision": 6,
+    "stats": {
+        "downloads": 1894.0,
+        "unique_downloads": 218.0,
+        "unique_views": 333.0,
+        "version_downloads": 3166.0,
+        "version_unique_downloads": 1014.0,
+        "version_unique_views": 9040.0,
+        "version_views": 9879.0,
+        "version_volume": 1292126531714.0,
+        "views": 371.0,
+        "volume": 1063338482239.0
+    },
+    "updated": "2020-01-24T19:26:18.295904+00:00"
+}
+{
+    "conceptdoi": "10.5281/zenodo.1213050",
+    "conceptrecid": "1213050",
+    "created": "2019-05-20T09:50:03.612935+00:00",
+    "doi": "10.5281/zenodo.3051568",
+    "files": [
+        {
+            "bucket": "ef7f77fd-6420-4f4b-8982-53a7719b506b",
+            "checksum": "md5:40f5c160b7b790bcdeec0219b28aef7e",
+            "key": "dblp-2018-12-17.dtd",
+            "links": {
+                "self": "https://zenodo.org/api/files/ef7f77fd-6420-4f4b-8982-53a7719b506b/dblp-2018-12-17.dtd"
+            },
+            "size": 12984,
+            "type": "dtd"
+        },
+        {
+            "bucket": "ef7f77fd-6420-4f4b-8982-53a7719b506b",
+            "checksum": "md5:d5e52bc23136acfe4b89fe8aaaa881d1",
+            "key": "hdblp-2018-12-17.xml.gz",
+            "links": {
+                "self": "https://zenodo.org/api/files/ef7f77fd-6420-4f4b-8982-53a7719b506b/hdblp-2018-12-17.xml.gz"
+            },
+            "size": 630294866,
+            "type": "gz"
+        },
+        {
+            "bucket": "ef7f77fd-6420-4f4b-8982-53a7719b506b",
+            "checksum": "md5:b94036b94345209da7258dc6a7b8723a",
+            "key": "LICENCE.txt",
+            "links": {
+                "self": "https://zenodo.org/api/files/ef7f77fd-6420-4f4b-8982-53a7719b506b/LICENCE.txt"
+            },
+            "size": 20437,
+            "type": "txt"
+        }
+    ],
+    "id": 3051568,
+    "links": {
+        "badge": "https://zenodo.org/badge/doi/10.5281/zenodo.3051568.svg",
+        "bucket": "https://zenodo.org/api/files/ef7f77fd-6420-4f4b-8982-53a7719b506b",
+        "conceptbadge": "https://zenodo.org/badge/doi/10.5281/zenodo.1213050.svg",
+        "conceptdoi": "https://doi.org/10.5281/zenodo.1213050",
+        "doi": "https://doi.org/10.5281/zenodo.3051568",
+        "html": "https://zenodo.org/record/3051568",
+        "latest": "https://zenodo.org/api/records/3051910",
+        "latest_html": "https://zenodo.org/record/3051910",
+        "self": "https://zenodo.org/api/records/3051568"
+    },
+    "metadata": {
+        "access_right": "open",
+        "access_right_category": "success",
+        "creators": [
+            {
+                "affiliation": "LZI Schloss Dagstuhl, Wadern, Germany",
+                "name": "Hoffmann, Oliver",
+                "orcid": "0000-0002-3808-9042"
+            },
+            {
+                "affiliation": "LZI Schloss Dagstuhl, Wadern, Germany",
+                "name": "Reitz, Florian",
+                "orcid": "0000-0001-6114-3388"
+            }
+        ],
+        "description": "<p>This data set contains historical data of the dblp collection (https://dblp.org). I.e., for each metadata record, the collection contains all known revisions that existed in dblp.&nbsp;</p>\n\n<p>With hdblp, the state of dblp can be restored for each day between June 2 1999 and December 17 2018. hdblp can be used to study the development of the dblp collection.</p>",
+        "doi": "10.5281/zenodo.3051568",
+        "keywords": [
+            "dblp",
+            "historical metadata"
+        ],
+        "license": {
+            "id": "ODC-By-1.0"
+        },
+        "notes": "dblp is a joint project of the University of Trier, Germany and the Schloss Dagstuhl \u2013 Leibniz Center for Informatics, Wadern, Germany. Former and current members of the team are listed on http://dblp.org/db/about/team.html .",
+        "publication_date": "2019-05-20",
+        "related_identifiers": [
+            {
+                "identifier": "10.5281/zenodo.1213050",
+                "relation": "isVersionOf",
+                "scheme": "doi"
+            }
+        ],
+        "relations": {
+            "version": [
+                {
+                    "count": 3,
+                    "index": 1,
+                    "is_last": false,
+                    "last_child": {
+                        "pid_type": "recid",
+                        "pid_value": "3051910"
+                    },
+                    "parent": {
+                        "pid_type": "recid",
+                        "pid_value": "1213050"
+                    }
+                }
+            ]
+        },
+        "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+        },
+        "title": "hdblp: historical data of the dblp collection"
+    },
+    "owners": [
+        32943
+    ],
+    "revision": 7,
+    "stats": {
+        "downloads": 13.0,
+        "unique_downloads": 12.0,
+        "unique_views": 165.0,
+        "version_downloads": 3166.0,
+        "version_unique_downloads": 1014.0,
+        "version_unique_views": 9040.0,
+        "version_views": 9879.0,
+        "version_volume": 1292126531714.0,
+        "views": 189.0,
+        "volume": 1891036797.0
+    },
+    "updated": "2020-01-24T19:26:05.764465+00:00"
+}
