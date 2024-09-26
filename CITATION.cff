@@ -10,9 +10,9 @@ type: software
 authors:
   - given-names: Benedikt Maria
     family-names: Beckermann
-    email: hello@benedikt.click
+    email: benedikt.beckermann@dagstuhl.de
     orcid: 'https://orcid.org/0009-0008-3920-6109'
-    affiliation: Schloss Dagstuhl Leibniz-Zentrum für Informatik
+    affiliation: Schloss Dagstuhl - Leibniz Center for Informatics
 repository-code: 'https://github.com/unknowndataproject/zenodo-investigation'
 abstract: >-
   Understand how Zenodo structures their datasets and
