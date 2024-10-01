@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: zenodo investigation
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Benedikt Maria
+    family-names: Beckermann
+    email: benedikt.beckermann@dagstuhl.de
+    orcid: 'https://orcid.org/0009-0008-3920-6109'
+    affiliation: Schloss Dagstuhl - Leibniz Center for Informatics
+repository-code: 'https://github.com/unknowndataproject/zenodo-investigation'
+abstract: >-
+  Understand how Zenodo structures their datasets and
+  identify how the meta data can be accessed
+  programmatically.
+license: CC0-1.0
+commit: e68af780ce98f45c1f316455ab53085d20a51717
+date-released: '2023-04-11'
